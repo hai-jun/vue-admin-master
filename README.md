@@ -1,6 +1,6 @@
 # haijun前端
 haijun物料管理系统的前端，包装网络请求，使用jwt做权限认证
-# 快速部署
+# 本地部署
 1.clone项目到本地 https://github.com/hai-jun/vue-admin-master.git
 
 2.在visual studio code中打开vue-admin-master项目（控制台终端亦可）
@@ -17,7 +17,7 @@ npm run dev
 
 5.最后可以用visual studio code等工具继续开发
 
-# 项目上线
+# 上线运行
 开发完成后，依然进入到vue-admin-master目录，然后执行如下命令：
 
 npm run build
